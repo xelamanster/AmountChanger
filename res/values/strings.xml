@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewAmountChanger</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dialog">MainActivity</string>
+    <string name="amount">Amount</string>
+    <string name="addBtn">Add</string>
+    <string name="dialogBtn">Pay Now</string>
+
+</resources>
